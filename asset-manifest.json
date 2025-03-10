@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Profit-Splitter-Tool/static/css/main.e6c13ad2.css",
+    "main.js": "/Profit-Splitter-Tool/static/js/main.df557e23.js",
+    "static/js/453.0b16fd1a.chunk.js": "/Profit-Splitter-Tool/static/js/453.0b16fd1a.chunk.js",
+    "index.html": "/Profit-Splitter-Tool/index.html",
+    "main.e6c13ad2.css.map": "/Profit-Splitter-Tool/static/css/main.e6c13ad2.css.map",
+    "main.df557e23.js.map": "/Profit-Splitter-Tool/static/js/main.df557e23.js.map",
+    "453.0b16fd1a.chunk.js.map": "/Profit-Splitter-Tool/static/js/453.0b16fd1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.df557e23.js"
+  ]
+}
