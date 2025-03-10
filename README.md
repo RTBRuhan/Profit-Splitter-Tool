@@ -40,6 +40,7 @@ My young neighbor was starting a business with his two friends. They were poolin
 ---
 
 ## **Interface Overview**
+![image alt] (https://github.com/RTBRuhan/Profit-Splitter-Tool/blob/main/Screenshot%20Profit%20Splitter.png?raw=true)
 The interface is designed to be intuitive:
 - Adjust workloads, payloads (investments), and profit shares using sliders or by entering values directly.
 - Add or remove investors as needed.
