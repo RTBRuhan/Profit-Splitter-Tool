@@ -18,6 +18,8 @@ My young neighbor was starting a business with his two friends. They were poolin
 
 ## **How to Use**
 
+### Visit https://rtbruhan.github.io/Profit-Splitter-Tool
+or 
 ### **Step 1: Download the Repository**
 1. Clone the repository or download it as a ZIP file.
 2. Extract the ZIP file if downloaded.
